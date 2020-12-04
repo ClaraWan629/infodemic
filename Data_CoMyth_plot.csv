@@ -1,0 +1,301 @@
+﻿Claims,Topic,W.len,S.len,Type,Content,Function,Verb,Noun,Adj,Adv,Prep,Pron,Art,Prop,Comp,Form,Spec,Fact,Number,Interj,PP,NP,ADJP,VP,ADVP,NN,TTR,Lexi.Comp,Syn.Comp,Label
+The COVID-19 Virus is spread faster in cold environment and is killed with hot and humid environment.,Transmission,5,17,15,12,6,4,4,3,1,2,0,0,0,4.491176471,5.4,5,4.478235294,0,0,2,3,1,5,1,1,88.23529412,3.982352941,5,FALSE
+The COVID-19 Virus is transmitted by Mosquitoes bites.,Transmission,5.875,8,8,6,3,3,2,0,0,1,0,0,1,3.24375,3.8,2.333333333,2.575416667,0,0,1,2,0,3,0,1,100,4.2375,2.25,FALSE
+Hot shower can prevent and/or even stop the infection of the rapidly spreading Corona Virus Disease.,Prevention,5.3125,16,15,11,6,3,4,1,2,1,0,0,1,4.571875,4.6,4.666666667,4.167708333,0,0,1,4,1,4,1,2,93.75,4.09375,5.05,FALSE
+Hand Driers can kill the COVID-19 Virus.,Prevention,4.857142857,7,7,5,3,2,2,0,0,0,0,0,1,2.764285714,4,1.666666667,2.186190476,0,0,0,2,0,3,0,1,100,3.628571429,1.9,FALSE
+One will die as soon as this novel Corona Virus infect the person.,Motality,4.153846154,13,12,8,6,2,2,1,2,1,0,0,1,3.65,4.2,2.066666667,2.603333333,1,0,0,3,0,3,2,1,92.30769231,3.2,4.1,FALSE
+Consumption of Alcohol can prevent or kill Corona Virus.,Cure,5.333333333,9,9,6,4,2,2,0,0,1,0,0,2,3.408333333,4.2,2.666666667,2.855,0,0,1,4,0,3,0,1,100,3.866666667,2.95,FALSE
+Pneumonia vaccines can prevent frominfection of this novel Virus.,Prevention,6.333333333,9,9,6,4,1,4,1,0,1,0,0,0,3.758333333,5.8,3,3.411666667,0,0,1,4,0,2,0,1,100,4.366666667,3.15,FALSE
+Rinsing hand with saline water prevent infection from Corona Virus.,Prevention,5.8,10,10,8,3,2,5,0,0,2,0,0,1,4.05,5.6,4.666666667,4.263333333,0,0,2,5,0,2,0,2,100,4.4,3.7,FALSE
+Corona Virus only affect older people and cannot affect younger.,Infection,5.5,10,9,9,3,2,2,2,2,0,0,0,1,3.775,4.4,2.333333333,2.801666667,0,0,0,4,0,3,1,1,90,4.25,3.3,FALSE
+Antibiotics can kill corona virus.,Cure,6,5,5,4,2,1,3,0,0,0,0,0,0,2.85,4.8,1.666666667,2.363333333,0,0,0,2,0,2,0,1,100,4.2,1.5,FALSE
+"Like bacteria, virus is living organism and can be killed it using medicines like antibiotics",Cure,5.266666667,15,15,10,6,5,5,0,0,2,1,0,0,4.416666667,4,3,3.183333333,0,0,2,7,0,6,0,0,100,4.033333333,4.8,FALSE
+"Eating garlic, turmeric, and/or lemon (and other foods commonly used as home remedies for flu and the common cold) can help prevent Covid-19 infection.",Prevention,5.333333333,24,24,17,12,3,8,4,1,2,0,0,1,6.483333333,7.8,7.666666667,6.69,0,0,2,11,0,4,1,3,100,4.166666667,8.8,FALSE
+Regularly rinsing with salt water or saline can help prevent COVID-19 infection.,Prevention,5.75,12,12,9,4,3,5,0,1,1,0,0,0,4.0625,4.8,3.666666667,3.605833333,0,0,1,4,0,4,1,2,100,4.375,3.75,FALSE
+Drinking warm water and getting enough sunlight are effective in preventing COVID-19.,Prevention,6.166666667,12,12,10,3,4,3,3,0,1,0,0,0,4.066666667,5,3.333333333,3.48,0,0,1,3,1,5,0,0,100,4.783333333,3.35,FALSE
+Taking a hot bath can prevent COVID-19 disease.,Prevention,5,8,8,6,3,2,3,1,0,0,0,0,0,3,4.8,2,2.56,0,0,0,2,0,3,0,1,100,3.8,2.2,FALSE
+The COVID-19 infection cannot be transmitted in areas with hot and humid climates.,Transmission,5.384615385,13,13,9,6,2,4,2,1,2,0,0,0,4.146153846,5.8,4.666666667,4.322564103,0,0,2,4,1,3,0,1,100,3.992307692,4.3,FALSE
+Hand dryers are effective in killing the novel coronavirus.,Prevention,5.666666667,9,9,7,3,3,2,2,0,1,0,0,0,3.441666667,4.6,2.666666667,2.941666667,0,0,1,2,1,3,0,0,100,4.233333333,2.65,FALSE
+Spraying alcohol or chlorine all over your body can kill the COVID-19 virus.,Prevention,4.923076923,13,13,7,7,2,5,0,0,1,1,0,0,3.905769231,5,3,3.281153846,0,0,1,5,0,3,0,1,100,3.461538462,4.35,FALSE
+Sniffing/inhaling alcohol can protect from developing the COVID-19 infection.,Prevention,7.666666667,9,9,6,4,3,3,0,0,1,0,0,0,3.691666667,4.2,2.333333333,2.745,0,0,1,2,0,4,0,1,100,5.033333333,2.35,FALSE
+Vaccines against pneumonia can protect you against the COVID-19 infection.,Prevention,6.5,10,9,5,6,1,4,0,0,2,1,0,0,3.875,5.2,3.333333333,3.481666667,0,0,2,5,0,2,0,1,90,4.05,3.7,FALSE
+Wearing a mask or N95 mask can only prevent the transmission of COVID-19.,Prevention,4.692307692,13,12,8,6,2,5,0,1,1,0,0,0,3.859615385,5.2,3,3.311923077,0,0,1,4,0,3,1,1,92.30769231,3.469230769,4.25,FALSE
+Drinking alcohol can cure COVID-19.,Cure,6.2,5,5,4,2,2,2,0,0,0,0,0,0,2.8,4,0.666666667,1.693333333,0,0,0,2,0,3,0,0,100,4.3,1.3,FALSE
+Using cow dung and cow’s urine can cure the virus.,Cure,4.1,10,10,7,5,2,5,0,0,0,0,0,0,3.325,5.2,3,3.205,0,0,0,5,0,3,0,2,100,3.25,3.4,FALSE
+Religious chants can protect from the virus/Clapping hands creates vibrations that destroy the coronavirus.,Cure,6.714285714,14,13,9,6,3,5,1,0,1,0,1,0,4.517857143,5.6,3.333333333,3.690238095,0,0,1,5,0,4,0,1,92.85714286,4.585714286,4.45,FALSE
+The new coronavirus can be transmitted through mosquito bite.,Transmission,5.888888889,9,9,6,4,2,3,1,0,1,0,0,0,3.347222222,5,2.666666667,3.002777778,0,0,1,2,0,3,0,1,100,4.144444444,2.55,FALSE
+Pets at home can spread the COVID-19 virus.,Transmission,4.5,8,8,5,4,1,4,0,0,1,0,0,0,3.1,5.4,2.666666667,3.033333333,0,0,1,4,0,2,0,1,100,3.35,2.85,FALSE
+Non-vegetarian food (meat/eggs/fish/chicken) consumption can lead to infection.,Transmission,9,8,8,7,6,1,4,2,0,0,0,0,0,4.225,6,2.666666667,3.378333333,0,0,1,4,0,2,0,0,100,5.6,2.85,FALSE
+Donating blood can result in acquiring COVID-19 infection.,Transmission,6.375,8,8,6,3,3,3,0,0,1,0,0,0,3.26875,4.2,2.333333333,2.660416667,0,0,1,2,0,4,0,1,100,4.4875,2.05,FALSE
+You would be at risk if someone infected in housing complex/neighborhood.,Transmission,5.727272727,11,11,6,6,2,4,0,0,3,1,0,0,3.731818182,5,3.333333333,3.413030303,0,0,2,4,0,3,0,1,100,3.863636364,3.6,FALSE
+Ordering or buying products shipped from overseas will make a person sick.,Transmission,5.25,12,12,8,5,4,2,1,1,1,0,0,0,3.7375,3.6,2.333333333,2.634166667,0,0,1,4,1,5,0,0,100,3.925,3.55,FALSE
+"Newspapers, milk packets, and vegetables can transmit the infection.",Transmission,6.666666667,9,9,6,6,1,5,0,0,0,0,0,0,3.816666667,5.6,2.333333333,3.05,0,0,0,5,0,2,0,1,100,4.333333333,3.3,FALSE
+COVID-19 infection can be transmitted from the mother to the child/fetus during the process of birth/delivery or pregnancy.,Transmission,5.888888889,18,16,9,10,2,7,0,0,3,0,0,0,5.191666667,6.6,6.333333333,5.525,0,0,5,8,0,3,0,1,88.88888889,3.733333333,6.65,FALSE
+Pregnant women with suspected or confirmed COVID-19 need to give birth by cesarean section (CS) only.,Transmission,5.375,16,16,12,7,3,7,1,1,2,0,0,0,5.16875,6.2,4.666666667,4.607083333,0,0,1,9,0,3,1,2,100,4.1875,6.15,FALSE
+"If pregnancy occurs, there is a high risk of miscarriage, abortion, or congenital malformations due to COVID-19.",Infection,5.647058824,17,17,11,10,2,6,3,0,2,0,0,0,5.311764706,7.2,5,5.002352941,0,0,2,9,1,2,0,0,100,3.923529412,6.7,FALSE
+COVID-19 infection can be transmitted through breast milk to the newborn/breastfeeding.,Transmission,7,11,11,7,5,2,5,0,0,1,0,0,0,4.15,5.4,4.333333333,4.076666667,0,0,2,4,0,3,0,2,100,4.7,3.6,FALSE
+All health care workers (HCWs) are a potential source of COVID-19 infection.,Misc.,5.416666667,12,12,9,6,1,7,1,0,1,0,0,0,4.329166667,7,5.333333333,4.9325,0,0,1,6,0,1,0,3,100,4.008333333,4.65,FALSE
+Someone without symptoms cannot spread the infection.,Transmission,6.714285714,7,7,5,4,1,3,0,1,1,0,0,0,3.503571429,4.8,1.666666667,2.494047619,0,0,1,4,0,2,0,0,100,4.457142857,2.55,FALSE
+All those who been quarantined because of travel history had developed the COVID-19 infection.,Transmission,5.785714286,14,14,8,7,4,4,0,0,2,1,1,0,4.121428571,4.2,3.333333333,3.330952381,0,0,1,4,0,4,0,2,100,3.992857143,4.25,FALSE
+Someone who has recovered from COVID-19 infection can still spread the infection.,Transmission,5.833333333,12,12,8,5,3,4,0,1,1,1,0,0,3.983333333,4,2.666666667,2.93,0,0,1,4,0,4,1,1,100,4.216666667,3.75,FALSE
+Unprotected sexual intercourse can lead to spreading of COVID-19 infection.,Transmission,6.6,10,10,7,4,1,4,2,0,1,0,0,0,4.05,6.2,4,4.05,0,0,2,4,0,2,0,1,100,4.6,3.5,FALSE
+COVID-19 affects only older people.,Infection,6.2,5,5,5,1,1,2,1,1,0,0,0,0,3.15,4.6,1.666666667,2.383333333,0,0,0,2,1,1,0,0,100,4.5,1.8,FALSE
+People who get the coronavirus/COVID-19 will die.,Motality,6.142857143,7,7,4,5,2,2,0,0,0,1,0,0,3.135714286,3.6,0.733333333,1.713809524,1,0,0,4,0,3,0,0,100,3.971428571,2.3,FALSE
+"The Indian Immune system is better than the West, and thus, Indians will survive Covid-19 infection better.",Motality,5.352941176,17,17,12,8,2,3,3,2,1,0,0,2,4.813235294,5.4,5.333333333,4.709313725,0,0,1,4,2,4,2,1,100,4.076470588,5.55,FALSE
+"COVID-19 can be treated by colloidal silver, vitamins, teas, and essential oils.",Cure,5.75,12,12,9,7,2,6,1,0,1,0,0,0,4.0625,6.2,3.666666667,3.885833333,0,0,1,5,0,3,0,1,100,4.075,4.05,FALSE
+Having had malaria makes one immune.,Infection,5.166666667,6,6,5,2,3,1,1,0,0,0,0,0,2.891666667,3.6,1.4,1.998333333,1,0,0,2,1,2,0,0,100,3.883333333,1.9,FALSE
+Anti-bacterial drugs are effective for therapy of COVID-19.,Cure,6.5,8,8,6,3,1,3,2,0,2,0,0,0,3.875,6,3.666666667,3.808333333,0,0,2,4,1,1,0,0,100,4.55,3.2,FALSE
+Hand sanitizers are better than soap and water.,Prevention,5,8,8,6,3,2,3,1,0,1,0,0,0,3.425,5,3.333333333,3.351666667,0,0,1,4,2,2,0,0,100,3.8,3.05,FALSE
+Thermal scanners can detect COVID-19.,Diagnosis,6.6,5,5,4,2,1,2,1,0,0,0,0,0,3,4.8,1,2.06,0,0,0,2,0,2,0,0,100,4.5,1.5,FALSE
+"If the public water supply is contaminated with COVID-19, the entire community will be infected.",Transmission,5.466666667,15,14,10,7,4,4,2,0,2,0,0,0,4.058333333,5.2,3.333333333,3.518333333,0,0,1,3,0,5,0,1,93.33333333,3.966666667,4.15,FALSE
+Those immunized with BCG are more likely not to get COVID-19 infection.,Prevention,5,12,12,9,4,3,2,2,2,1,0,0,0,3.875,4.2,2.666666667,2.948333333,0,0,1,4,1,4,0,0,100,4,3.75,FALSE
+No vaccine can be developed against COVID-19 infection.,Prevention,6,8,8,5,4,2,3,0,0,1,0,0,0,3.175,4.6,2.333333333,2.721666667,0,0,1,2,0,3,0,1,100,4.1,2.25,FALSE
+Novel coronavirus is in the cloud,Misc.,4.666666667,6,6,4,2,1,2,1,0,1,0,0,0,2.791666667,5,1.666666667,2.391666667,0,0,1,2,0,1,0,0,100,3.533333333,2.05,FALSE
+Coronavirus is a snake flu,Misc.,4.4,5,5,4,1,1,2,0,0,0,0,0,1,2.6,4.4,1.666666667,2.233333333,0,0,0,2,0,1,0,1,100,3.5,1.7,FALSE
+Pet animals are the sources of coronavirus,Source,5.142857143,7,7,5,2,1,3,0,0,1,0,0,1,3.310714286,5,2.666666667,2.99547619,0,0,1,4,0,1,0,1,100,3.871428571,2.75,FALSE
+Novel coronavirus strain is a type of rabies,Misc.,4.625,8,8,6,2,1,3,1,0,1,0,0,1,3.38125,5.4,3,3.25625,0,0,1,4,0,1,0,1,100,3.7125,3.05,FALSE
+Coronavirus outbreak in the livestock,Transmission,6.6,5,5,3,2,0,2,0,0,1,0,0,1,3.275,5,2.333333333,2.821666667,0,0,1,3,0,0,0,1,100,4.4,2.15,FALSE
+Poultry eggs are contaminated with coronavirus,Transmission,6.833333333,6,6,5,1,2,3,0,0,1,0,0,0,3.333333333,4.6,2.333333333,2.753333333,0,0,1,2,0,2,0,1,100,4.816666667,1.85,FALSE
+"Cookies, rice, and Chinese red bull were contaminated with the virus",Transmission,5.272727273,11,11,8,5,2,4,2,0,1,0,0,0,3.943181818,5.8,2.666666667,3.281969697,0,0,1,5,0,2,0,0,100,3.936363636,3.95,FALSE
+Eating bat soup is the source of the (COVID-19) outbreak,Source,4.7,10,9,7,5,1,5,0,0,1,0,0,1,3.55,5.8,4,3.87,0,0,1,4,0,1,0,2,90,3.45,3.65,FALSE
+COVID-19 found in orange,Misc.,5.25,4,4,3,1,1,2,0,0,1,0,0,0,2.7375,4.6,1.333333333,2.134166667,0,0,1,3,0,1,0,0,100,3.825,1.65,FALSE
+Coronavirus from imported goods,Transmission,7,4,4,3,1,1,2,0,0,1,0,0,0,3.275,4.6,1.333333333,2.241666667,0,0,1,3,0,0,0,0,100,4.7,1.85,FALSE
+Mobile phone can transmit coronavirus,Transmission,6.6,5,5,4,1,1,2,0,0,0,0,0,1,3.05,4.4,1.666666667,2.323333333,0,0,0,2,0,2,0,1,100,4.6,1.5,FALSE
+Notes are sources of coronavirus,Source,5.6,5,5,4,1,1,3,0,0,1,0,0,0,3.125,5,1.666666667,2.458333333,0,0,1,4,0,1,0,0,100,4.1,2.15,FALSE
+Common cold had been renamed as coronavirus,Misc.,5.285714286,7,7,6,1,3,2,1,0,1,0,0,0,3.046428571,4.2,1.666666667,2.282619048,0,0,1,2,0,3,0,0,100,4.142857143,1.95,FALSE
+Eating garlic can cure coronavirus,Cure,6,5,5,4,1,1,2,0,0,0,0,0,1,2.9,4.4,1.666666667,2.293333333,0,0,0,2,0,2,0,1,100,4.3,1.5,FALSE
+Drinking bleach may kill the virus,Cure,4.833333333,6,6,4,2,2,2,0,0,0,0,0,0,2.608333333,4,0.666666667,1.655,0,0,0,2,0,3,0,0,100,3.616666667,1.6,FALSE
+Drinking alcohol may kill the virus,Cure,5,6,6,4,2,2,2,0,0,0,0,0,0,2.65,4,0.666666667,1.663333333,0,0,0,2,0,3,0,0,100,3.7,1.6,FALSE
+Gargling vinegar and rose water or vinegar and salt may kill the virus in throat,Cure,4.4,15,13,9,6,3,6,0,0,1,0,0,0,4.358333333,5.4,2.666666667,3.285,0,0,1,8,0,4,0,0,86.66666667,3.366666667,5.35,FALSE
+Drinking cow urine and cow dung can cure coronavirus,Cure,4.888888889,9,8,7,2,2,5,0,0,0,0,0,0,3.366666667,5.2,3,3.213333333,0,0,0,4,0,3,0,2,88.88888889,3.833333333,2.9,FALSE
+Silver solution for coronavirus treatment,Cure,7.4,5,5,4,1,0,4,0,0,1,0,0,0,3.575,5.8,3.333333333,3.541666667,0,0,1,3,0,0,0,2,100,5,2.15,FALSE
+"Wearing warm socks, mustard patches, and spreading goose fat on one’s chest as treatment",Cure,5.357142857,14,14,10,7,2,7,1,0,2,0,0,0,4.639285714,6.8,5.4,4.987857143,1,0,2,7,0,2,0,2,100,3.978571429,5.3,FALSE
+"Keeping throat moist, avoid spicy food and taking vitamin C may prevent the disease",Prevention,5,14,14,11,4,4,5,2,0,0,0,0,0,4.1,5.2,4.333333333,4.026666667,0,0,0,3,2,5,0,1,100,4.2,4,FALSE
+"Avoiding cold or preserved food and drinks, such as ice cream and milkshakes may prevent infection",Prevention,5.1875,16,15,11,6,2,6,3,0,1,0,0,0,4.690625,7,5,4.838125,0,0,1,5,1,3,0,1,93.75,4.03125,5.35,FALSE
+Spraying chlorine all over your body can prevent coronavirus infection,Prevention,6.1,10,10,6,4,2,4,0,0,1,1,0,0,3.75,4.6,2.666666667,3.003333333,0,0,1,4,0,3,0,1,100,4.25,3.25,FALSE
+Sesame oil can prevent coronavirus infection,Prevention,6.5,6,6,5,1,1,3,0,0,0,0,0,1,3.225,4.8,2.666666667,2.938333333,0,0,0,2,0,2,0,2,100,4.65,1.8,FALSE
+Granite bath can prevent coronavirus infection,Prevention,6.833333333,6,6,5,1,1,4,0,0,0,0,0,0,3.308333333,5.2,2.666666667,3.035,0,0,0,2,0,2,0,2,100,4.816666667,1.8,FALSE
+Sea lettuce can prevent coronavirus infection,Prevention,6.666666667,6,6,5,1,1,3,0,0,0,0,0,1,3.266666667,4.8,2.666666667,2.946666667,0,0,0,2,0,2,0,2,100,4.733333333,1.8,FALSE
+Vitamin C intake can prevent coronavirus infection,Prevention,6.285714286,7,7,6,1,1,5,0,0,0,0,0,0,3.371428571,5.6,3.666666667,3.627619048,0,0,0,2,0,2,0,3,100,4.642857143,2.1,FALSE
+Vitamin D can prevent coronavirus infection,Prevention,6.333333333,6,6,5,1,1,4,0,0,0,0,0,0,3.183333333,5.2,2.666666667,3.01,0,0,0,2,0,2,0,2,100,4.566666667,1.8,FALSE
+Eating Centella asiatica may prevent coronavirus infection,Prevention,7.428571429,7,7,6,1,1,3,0,0,0,0,0,2,3.657142857,4.8,3.666666667,3.524761905,0,0,0,2,0,2,0,3,100,5.214285714,2.1,FALSE
+"Drinks containing mint or white willow, and spices like saffron, turmeric, and cinnamon would strengthen the lungs and the immune system against the virus",Prevention,5.458333333,24,20,14,13,2,8,3,0,2,0,0,1,6.78125,8,5.333333333,5.622916667,0,0,2,16,0,3,0,0,83.33333333,3.6625,9.9,FALSE
+Rinse mouths with salt water solution to prevent infection from the new virus outbreak,Prevention,5.214285714,14,14,10,4,2,7,1,0,2,0,0,0,4.353571429,6.8,6,5.230714286,0,0,2,4,0,3,0,3,100,4.207142857,4.5,FALSE
+"Do not hold your thirst because once your membrane in your throat is dried, the virus will invade into your body within 10 minutes",Infection,4.458333333,24,21,13,12,5,6,0,2,4,4,0,0,5.377083333,3.2,4.066666667,3.74875,1,0,3,7,0,6,0,0,87.5,3.204166667,7.55,FALSE
+Applying petroleum jelly around your nostrils will protect against dangerous air pollutants,Prevention,6.666666667,12,12,8,4,2,5,1,0,2,1,0,0,4.216666667,5.6,4.666666667,4.296666667,0,0,2,3,0,3,0,2,100,4.733333333,3.7,FALSE
+Do-it-yourself coronavirus detection test,Diagnosis,9.5,4,4,4,0,0,3,1,0,0,0,0,0,3.775,5.6,2.666666667,3.208333333,0,0,0,1,0,0,0,2,100,6.15,1.4,FALSE
+Cannabis boosts immunity against the novel coronavirus,Prevention,6.857142857,7,7,5,2,1,3,1,0,1,0,0,0,3.739285714,5.4,2,2.827857143,0,0,1,4,0,1,0,0,100,4.728571429,2.75,FALSE
+Frequent washing clothes can reduce transmission,Prevention,7.166666667,6,6,5,1,2,2,1,0,0,0,0,0,3.391666667,4.4,1,2.058333333,0,0,0,2,0,2,0,0,100,4.983333333,1.8,FALSE
+"Novel coronavirus is engineered, laboratory-generated virus either accidentally or deliberately released in the area of the Wuhan seafood and animal market",Cause,6.428571429,21,20,14,8,3,6,2,2,2,0,0,1,5.933333333,6,5.666666667,5.22,0,0,2,6,0,4,3,2,95.23809524,4.766666667,7.1,FALSE
+COVID-2019 outbreak was planned,Cause,7,4,4,4,0,2,2,0,0,0,0,0,0,2.95,4,1.333333333,2.056666667,0,0,0,1,0,2,0,1,100,4.9,1,FALSE
+It’s a bio-weapon funded by the Bill & Melinda Gates foundation to further vaccine sales,Cause,4.933333333,15,15,10,6,2,4,1,0,1,1,0,3,4.533333333,5,6,4.906666667,0,0,2,5,0,2,0,3,100,3.866666667,5.2,FALSE
+Biological weapon manufactured by CIA,Cause,6.6,5,5,4,1,1,1,1,0,1,0,0,1,3.275,4.6,1.666666667,2.408333333,0,0,1,3,0,1,0,0,100,4.6,1.95,FALSE
+President Donald Trump targeted the city with coronavirus to damage its culture and honor in Iran,Cause,5.125,16,16,10,6,2,4,0,0,2,1,0,4,4.73125,4.8,5.333333333,4.572916667,0,0,2,6,0,3,0,2,100,3.9625,5.5,FALSE
+The virus is an attempt to wage ‘economic war on China’,Cause,4.090909091,11,11,7,6,1,4,1,0,1,0,0,1,3.672727273,5.8,3.333333333,3.561212121,0,0,2,5,0,1,0,0,100,3.145454545,4.2,FALSE
+America’s Jews are driving America’s wars,Cause,6,6,5,6,2,2,1,0,0,0,0,0,3,3.216666667,3.6,1.333333333,2.03,0,0,0,4,0,2,0,0,83.33333333,4.233333333,2.2,FALSE
+This outbreak is a medical terrorism,Cause,5.166666667,6,6,4,2,1,2,1,0,0,0,0,0,2.891666667,4.8,1,2.038333333,0,0,0,2,0,1,0,0,100,3.783333333,2,FALSE
+Zionists are against regional security,Cause,6.8,5,5,4,1,1,2,1,0,1,0,0,0,3.225,5,1.666666667,2.478333333,0,0,1,2,0,1,0,0,100,4.7,1.75,FALSE
+United States and Israel of being behind the creation and spread of the deadly coronavirus as part of an economic and psychological war against China,Cause,5,25,20,13,12,1,5,3,0,6,0,0,4,7.05,8,9.333333333,7.676666667,0,0,6,15,1,1,0,1,80,3.4,10.7,FALSE
+This outbreak is a population control scheme,Cause,5.428571429,7,7,5,2,1,4,0,0,0,0,0,0,3.157142857,5.2,2.666666667,3.004761905,0,0,0,2,0,1,0,2,100,4.014285714,2.3,FALSE
+Tom Cotton claimed that COVID-19 was manufactured in Chinese bio-laboratory,Cause,6.6,10,10,8,2,3,1,2,0,2,0,0,2,3.975,4.4,4.333333333,3.841666667,0,0,1,2,2,3,0,1,100,4.9,3.05,FALSE
+Rush Limbaugh opining that whole COVID-19 is a Cause against Trump to let him down in election. He purported it as a worse flu,Cause,4.291666667,24,23,13,12,4,4,3,0,4,3,1,2,5.552083333,5,4.333333333,4.277083333,0,0,2,8,0,5,0,0,95.83333333,3.204166667,7.9,FALSE
+New coronavirus vaccines already exist,Prevention,6.8,5,5,5,0,1,2,0,1,0,0,0,1,3.25,4.2,2.333333333,2.656666667,0,0,0,1,0,1,1,2,100,4.9,1.6,FALSE
+Pneumonia vaccines are effective against the Wuhan coronavirus,Prevention,6.875,8,8,6,2,1,3,1,0,1,0,0,1,3.79375,5.4,4.333333333,4.005416667,0,0,1,2,1,1,0,2,100,4.8375,2.75,FALSE
+Israel has sent a vaccine to Wuhan city for patients infected with coronavirus,Prevention,5.076923077,13,13,9,4,3,4,0,0,2,0,0,2,4.344230769,4.8,4.666666667,4.162179487,0,0,3,6,0,3,0,1,100,4.038461538,4.65,FALSE
+Spraying chlorine or alcohol on the skin kills viruses in the body,Prevention,4.583333333,12,11,7,5,2,5,0,0,2,0,0,0,4.054166667,5.6,3,3.430833333,0,0,2,7,0,2,0,0,91.66666667,3.408333333,4.7,FALSE
+Only older adults and young people are at risk,Infection,4.222222222,9,9,7,2,1,3,2,1,1,0,0,0,3.530555556,5.6,3,3.326111111,0,0,1,4,1,1,0,0,100,3.611111111,3.45,FALSE
+Children cannot get COVID-19,Infection,6.25,4,4,4,1,1,2,0,1,0,0,0,0,2.8125,4.2,0.666666667,1.735833333,0,0,0,2,0,2,0,0,100,4.425,1.2,FALSE
+COVID-19 is just like the flu,Misc.,4,6,6,4,2,1,2,0,1,1,0,0,0,2.675,4.4,1.333333333,2.081666667,0,0,1,2,0,1,1,0,100,3.2,2.15,FALSE
+Everyone with COVID-19 dies,Motality,6,4,4,3,1,1,2,0,0,1,0,0,0,2.925,4.6,1.333333333,2.171666667,0,0,1,3,0,1,0,0,100,4.2,1.65,FALSE
+Cats and dogs spread coronavirus,Transmission,5.6,5,5,4,1,1,3,0,0,0,0,0,0,3,4.8,1,2.06,0,0,0,3,0,1,0,0,100,4.1,1.9,FALSE
+Face masks always protect against coronavirus,Prevention,6.666666667,6,6,5,1,2,1,0,1,1,0,0,1,3.341666667,3.6,1.333333333,2.055,0,0,1,2,0,2,1,0,100,4.733333333,1.95,FALSE
+Hand dryers kill coronavirus,Prevention,6.25,4,4,4,0,2,2,0,0,0,0,0,0,2.8625,4,0.666666667,1.705833333,0,0,0,2,0,2,0,0,100,4.525,1.2,FALSE
+SARS-CoV-2 is just a mutated form of the common cold.,Misc.,4.4,10,10,7,4,2,3,1,1,1,0,0,0,3.575,4.8,2,2.675,0,0,1,4,0,1,0,0,100,3.5,3.65,FALSE
+You have to be with someone for 10 minutes to catch the virus,Infection,3.769230769,13,12,6,7,3,3,0,0,2,1,0,0,3.228846154,4,1.733333333,2.312435897,1,0,1,4,0,5,0,0,92.30769231,2.707692308,3.75,FALSE
+Rinsing the nose with saline protects against coronavirus,Prevention,6.25,8,8,5,3,2,3,0,0,2,0,0,0,3.5125,4.8,2.333333333,2.829166667,0,0,2,3,0,2,0,0,100,4.325,2.7,FALSE
+You can protect yourself by gargling bleach,Prevention,5.285714286,7,7,3,4,2,1,0,0,1,2,0,0,2.846428571,3,1,1.669285714,0,0,1,3,0,3,0,0,100,3.542857143,2.15,FALSE
+Antibiotics kill coronavirus.,Cure,9,3,3,3,1,1,2,0,0,0,0,0,0,3.4,4.4,0.666666667,1.893333333,0,0,0,2,0,1,0,0,100,5.7,1.1,FALSE
+Thermal scanners can diagnose coronavirus,Diagnosis,7.4,5,5,4,1,1,2,1,0,0,0,0,0,3.25,4.8,1,2.11,0,0,0,2,0,2,0,0,100,5,1.5,FALSE
+Garlic protects against coronaviruses,Prevention,8.5,4,4,3,1,1,1,0,0,1,0,0,1,3.45,4.2,1.333333333,2.196666667,0,0,1,2,0,1,0,0,100,5.45,1.45,FALSE
+Parcels from China can spread coronavirus,Transmission,6,6,6,4,2,1,2,0,0,1,0,0,1,3.225,4.6,1.666666667,2.398333333,0,0,1,4,0,2,0,0,100,4.2,2.25,FALSE
+Home remedies can cure and protect against COVID-19,Prevention,5.5,8,8,5,3,2,2,0,0,1,0,0,1,3,4.2,2.333333333,2.606666667,0,0,1,2,0,4,0,1,100,3.95,2.05,FALSE
+You can catch coronavirus from eating Chinese food in the US,Infection,4.545454545,11,11,6,5,2,2,1,0,2,1,0,1,3.486363636,4.4,2.666666667,2.910606061,0,0,2,4,0,3,0,0,100,3.372727273,3.6,FALSE
+You can catch coronavirus from urine and feces,Infection,4.875,8,8,4,4,1,3,0,0,1,1,0,0,3.24375,4.6,1.666666667,2.402083333,0,0,1,5,0,2,0,0,100,3.4375,3.05,FALSE
+The virus will die off when temperatures rise in the spring,Prevention,4.454545455,11,11,6,5,2,3,0,1,1,0,1,0,3.338636364,4.6,1.666666667,2.421060606,0,0,1,3,0,3,0,0,100,3.327272727,3.35,FALSE
+Coronavirus is the deadliest virus known to humans,Motality,5.375,8,8,6,2,2,2,1,0,0,0,0,1,3.46875,4.4,2,2.57375,0,0,1,4,0,2,0,0,100,4.0875,2.85,FALSE
+Flu and pneumonia vaccines can protect against COVID-19,Prevention,6,8,8,5,3,1,4,0,0,1,0,0,0,3.525,5.4,2.666666667,3.118333333,0,0,1,4,0,2,0,1,100,4.2,2.85,FALSE
+The virus originated in a laboratory in China,Cause,4.75,8,7,4,4,1,2,0,0,2,0,0,1,3.175,4.8,2.333333333,2.761666667,0,0,2,4,0,1,0,0,87.5,3.25,3.1,FALSE
+The outbreak began because people ate bat soup,Source,4.875,8,8,6,2,2,4,0,0,1,0,0,0,3.21875,5,2,2.64375,0,0,0,3,0,2,0,1,100,3.8375,2.6,FALSE
+5G helps SARS-CoV-2 spread,Transmission,5.75,4,4,4,0,1,3,0,0,0,0,0,0,2.8375,4.8,1.666666667,2.360833333,0,0,0,2,0,1,0,1,100,4.275,1.4,FALSE
+Drinking alcohol reduces the risk of infection,Prevention,5.714285714,7,7,5,2,2,3,0,0,1,0,0,0,3.353571429,4.6,1.666666667,2.424047619,0,0,1,4,0,2,0,0,100,4.157142857,2.55,FALSE
+Injecting or consuming bleach or disinfectant kills the virus,Cure,5.888888889,9,8,6,3,3,3,0,0,0,0,0,0,3.516666667,4,1,2.003333333,0,0,0,4,0,3,0,0,88.88888889,4.133333333,2.9,FALSE
+Spray alcohol/chlorine on yourself,Cure,7.75,4,4,2,2,0,2,0,0,1,1,0,0,3.3625,4.6,2,2.5925,0,0,1,3,0,0,0,1,100,4.875,1.85,FALSE
+Take antibiotics！,Cure,8,2,2,2,1,1,1,0,0,0,0,0,0,2.85,4,0.333333333,1.536666667,0,0,0,1,0,1,0,0,100,5.1,0.6,FALSE
+Steroids!,Cure,9,1,1,1,1,0,1,0,0,0,0,0,0,3,4.4,0.333333333,1.646666667,0,0,0,1,0,0,0,0,100,5.5,0.5,FALSE
+Taking ibuprofen is a bad idea.,Cure,4.333333333,6,6,5,2,2,2,1,0,0,0,0,0,2.633333333,4.4,1,1.906666667,0,0,0,2,0,2,0,0,100,3.466666667,1.8,FALSE
+Facemasks don't help.,Prevention,6.333333333,3,3,4,1,2,1,0,1,0,0,0,0,2.583333333,3.4,0.333333333,1.363333333,0,0,0,1,0,2,0,0,100,4.466666667,0.7,FALSE
+Just take a hot bath.,Prevention,3.4,5,5,4,2,1,1,1,1,0,0,0,0,2.25,4.2,0.666666667,1.623333333,0,0,0,1,0,1,1,0,100,2.9,1.6,FALSE
+Wear gloves.,Prevention,5.5,2,2,2,1,1,1,0,0,0,0,0,0,2.225,4,0.333333333,1.411666667,0,0,0,1,0,1,0,0,100,3.85,0.6,FALSE
+Only use anti-bacterial soap.,Prevention,6.5,4,4,4,1,0,2,1,1,0,0,0,0,3.075,5,1,2.115,0,0,0,2,0,0,0,0,100,4.55,1.6,FALSE
+Pneumonia vaccines.,Prevention,9,2,2,2,1,0,2,0,0,0,0,0,0,3.3,4.8,1.333333333,2.286666667,0,0,0,2,0,0,0,1,100,5.6,1,FALSE
+Just get a flu jab.,Prevention,3,5,5,4,2,1,2,0,1,0,0,0,0,2.15,4.2,1.333333333,1.936666667,0,0,0,1,0,1,1,1,100,2.7,1.6,FALSE
+Eat loads of garlic!,Prevention,4.25,4,4,3,2,1,2,0,0,1,0,0,0,2.4375,4.6,1.333333333,2.074166667,0,0,1,3,0,1,0,0,100,3.225,1.65,FALSE
+Sipping water every 15m will stop infection.,Prevention,5.428571429,7,7,5,3,2,3,0,0,0,0,0,0,3.007142857,4.4,1,1.981428571,0,0,0,3,0,3,0,0,100,3.914285714,2.1,FALSE
+Salt-water nose rinses.,Prevention,7,3,3,3,1,0,2,1,0,0,0,0,0,3,5.2,1.666666667,2.473333333,0,0,0,2,0,0,0,1,100,4.7,1.3,FALSE
+Echinacea!,Prevention,10,1,1,1,1,0,0,0,0,0,0,0,1,3.35,4,0.333333333,1.636666667,0,0,0,2,0,0,0,0,100,6,0.7,FALSE
+Green tea!,Prevention,4.5,2,2,2,1,0,1,0,0,0,0,0,1,2.175,4.4,1.333333333,1.981666667,0,0,0,2,0,0,0,1,100,3.35,1,FALSE
+Vitamin C!,Prevention,4.5,2,2,2,1,0,2,0,0,0,0,0,0,2.175,4.8,1.333333333,2.061666667,0,0,0,2,0,0,0,1,100,3.35,1,FALSE
+Zinc!,Prevention,5,1,1,1,1,0,1,0,0,0,0,0,0,2,4.4,0.333333333,1.446666667,0,0,0,1,0,0,0,0,100,3.5,0.5,FALSE
+Colloidal silver! Elderberry juice! Essential oils!,Prevention,7.666666667,6,6,6,3,0,3,1,0,0,0,0,2,3.666666667,5.6,3.333333333,3.52,0,0,0,2,0,0,0,2,100,5.133333333,2.2,FALSE
+A vaccine is coming soon!,Prevention,4.2,5,5,4,2,2,1,0,1,0,0,0,0,2.35,3.4,0.333333333,1.316666667,0,0,0,1,0,2,1,0,100,3.3,1.4,FALSE
+Just use hand sanitiser gel.,Prevention,4.8,5,5,5,1,1,3,0,1,0,0,0,0,2.7,4.6,2.333333333,2.626666667,0,0,0,1,0,1,1,2,100,3.8,1.6,FALSE
+You need 10 minutes with an infected person to be exposed.,Prevention,4.363636364,11,11,6,6,3,2,1,0,1,1,0,0,3.265909091,3.8,1.733333333,2.279848485,1,0,1,4,0,4,0,0,100,3.181818182,3.35,FALSE
+5G caused COVID-19.,Cause,5.666666667,3,3,3,1,1,2,0,0,0,0,0,0,2.566666667,4.4,0.666666667,1.726666667,0,0,0,2,0,1,0,0,100,4.033333333,1.1,FALSE
+Packages from China are unsafe.,Transmission,5.4,5,5,4,2,1,1,1,0,1,0,0,1,2.975,4.6,2.333333333,2.681666667,0,0,1,3,1,1,0,0,100,3.9,2.05,FALSE
+Chloroquine drugs can prevent the virus spreading.,Cure,6.285714286,7,7,5,3,1,4,0,0,0,0,0,0,3.221428571,5.2,2.666666667,3.017619048,0,0,0,2,0,2,0,2,100,4.342857143,2.1,FALSE
+Hand dryers kill corona.,Prevention,5.25,4,4,4,1,2,2,0,0,0,0,0,0,2.5625,4,0.666666667,1.645833333,0,0,0,2,0,2,0,0,100,3.925,1.2,FALSE
+Cold weather kills it.,Transmission,4.75,4,4,3,2,1,1,0,0,0,1,0,1,2.4375,3.6,1.333333333,1.874166667,0,0,0,2,0,1,0,1,100,3.475,1.4,FALSE
+You can get it from mosquito bites.,Transmission,4.142857143,7,7,3,5,2,1,0,0,1,2,0,0,2.510714286,3,1,1.602142857,0,0,1,3,0,3,0,0,100,2.871428571,2.15,FALSE
+It's spreading faster than any other pathogen.,Transmission,5.714285714,7,7,5,4,2,1,2,0,1,1,0,0,3.153571429,4.2,1.666666667,2.304047619,0,0,1,2,0,2,2,0,100,3.957142857,2.35,FALSE
+Pets can spread the coronavirus.,Transmission,5.6,5,5,3,3,1,2,0,0,0,0,0,0,2.65,4.4,0.666666667,1.743333333,0,0,0,2,0,2,0,0,100,3.8,1.5,FALSE
+People of African descent are resistant.,Transmission,5.833333333,6,6,5,2,1,2,2,0,1,0,0,0,3.283333333,5.4,2.666666667,3.07,0,0,1,3,1,1,0,0,100,4.216666667,2.35,FALSE
+You can get it from money.,Transmission,3.5,6,6,2,5,1,1,0,0,1,2,0,0,2.25,3.4,1,1.63,0,0,1,3,0,2,0,0,100,2.45,2.05,FALSE
+"Hold your breath for 10 seconds. If you can't, you've got COVID-19.",Diagnosis,4.666666667,12,12,7,10,3,3,0,1,2,3,0,0,3.441666667,3,1.733333333,2.155,1,0,1,2,0,1,0,0,100,3.033333333,3.85,FALSE
+Thermal scanners detect it.,Diagnosis,6,4,4,3,2,1,1,1,0,0,1,0,0,2.75,4,0.666666667,1.683333333,0,0,0,2,0,1,0,0,100,4.1,1.4,FALSE
+People who recover can get it again.,Infection,4.285714286,7,7,4,4,2,1,0,1,0,2,0,0,2.771428571,2.6,0.333333333,1.240952381,0,0,0,4,0,3,1,0,100,3.142857143,2.4,FALSE
+The coronavirus is less deadly than the flu.,Motality,4.625,8,8,5,4,1,2,1,1,1,0,0,0,3.13125,4.8,3,3.08625,0,0,1,2,2,1,0,0,100,3.4125,2.85,FALSE
+It's more deadly than any other pathogen.,Motality,5,7,7,5,4,1,1,3,0,1,1,0,0,3.075,5,3.333333333,3.281666667,0,0,1,2,2,1,0,0,100,3.6,2.55,FALSE
+Getting COVID-19 is a death sentence.,Motality,5.333333333,6,6,5,2,2,3,0,0,0,0,0,0,2.883333333,4.4,1.666666667,2.29,0,0,0,2,0,2,0,1,100,3.966666667,1.8,FALSE
+It was created in a lab & deliberately spread.,Cause,4.222222222,9,9,5,5,3,1,0,1,1,1,0,0,2.980555556,2.8,1.666666667,1.989444444,0,0,1,2,1,2,0,0,100,3.111111111,2.85,FALSE
+Bill Gates created COVID-19.,Cause,6.25,4,4,4,1,1,1,0,0,0,0,0,2,2.9125,4,1.666666667,2.215833333,0,0,0,2,0,1,0,1,100,4.425,1.4,FALSE
+All coughs & fevers are coronavirus infections.,Infection,5.857142857,7,7,5,3,1,4,0,0,0,0,0,0,3.214285714,5.2,2,2.682857143,0,0,0,2,0,1,0,1,100,4.128571429,2.3,FALSE
+Italy has stopped treating elderly infectees.,Misc.,6.666666667,6,6,6,1,3,1,1,0,0,0,0,1,3.216666667,3.6,1,1.863333333,0,0,0,2,0,3,0,0,100,4.833333333,1.6,FALSE
+Obama declared Swine flu an emergency only after millions were infected.,Misc.,5.636363636,11,11,9,3,3,4,0,1,1,0,0,1,4.209090909,4.4,2.333333333,2.888484848,0,0,0,6,0,3,1,1,100,4.418181818,4,FALSE
+"The COVID-19 virus can be transmitted in all types of environment, including areas with hot and humid weather.",Transmission,5.166666667,18,18,11,9,3,6,2,0,3,0,0,0,5.141666667,6.6,6.666666667,5.681666667,0,0,4,7,1,3,0,1,100,3.783333333,6.5,TRUE
+There is no evidences justifying that Mosquito bites can transmit the COVID-19.,Transmission,5.666666667,12,12,7,6,4,2,0,0,1,0,0,1,3.766666667,3.4,1,1.933333333,0,0,0,5,0,5,0,0,100,3.933333333,3.6,TRUE
+Taking hot shower can’t help in prevention of this diseases. ,Prevention,4.636363636,11,11,7,5,2,3,1,1,2,0,0,0,3.559090909,5,2.666666667,3.045151515,0,0,2,4,0,3,0,0,100,3.518181818,3.6,TRUE
+"Frequent cleaning, hand washing even shower with soap before food or after touching suspicious materials or caring the person with flu like symptoms are the best preventive measure.",Prevention,5.5,28,25,19,11,4,10,4,1,5,0,0,0,7.071428571,8.8,8.666666667,7.507619048,0,0,6,10,0,5,0,0,89.28571429,4.442857143,9.7,TRUE
+The hand driers cannot kill this virus. Instead proper hand washing will wash out the virus that might be present in the hand.,Prevention,4.52173913,23,21,14,12,4,6,2,2,1,0,2,0,5.136956522,5.8,4.666666667,4.520724638,0,0,0,2,0,2,0,3,91.30434783,3.373913043,6.9,TRUE
+COVID-19 Virus is not that dangerous. ,Motality,4.571428571,7,7,5,2,1,2,1,1,1,0,0,0,2.892857143,4.8,2.333333333,2.705238095,0,0,0,1,1,1,0,1,100,3.585714286,2.2,TRUE
+The evidence has shown that 96-97% of the people who get infected with this novel Corona Virus will recover with proper medical care and complete best rest in self-isolation.,Motality,5.034482759,29,28,18,13,5,7,5,0,5,1,0,1,6.84137931,7.4,7.733333333,6.714942529,1,0,4,10,0,6,0,1,96.55172414,3.982758621,9.7,TRUE
+"Instead, proper hand washing with soap or alcohol based gel or rub can wash out the virus that might be present in the hands.",Prevention,4.25,24,22,14,12,4,7,2,1,2,0,2,0,5.870833333,6.6,5,4.994166667,0,0,2,10,1,5,1,0,91.66666667,3.241666667,8.5,TRUE
+"However, Alcohol ingestion decreases the immunity and increases the chances of serious disease if infected and interfere the treatment procedure if infected.",Cure,6.181818182,22,18,14,10,4,7,2,1,3,0,0,0,5.679545455,6.4,5.666666667,5.249242424,0,0,1,6,1,5,1,2,81.81818182,4.309090909,7.05,TRUE
+Alcohol consumption cannot kill or prevent the infection of COVID-19. ,Prevention,5.454545455,11,11,7,5,2,4,0,1,1,0,0,0,3.738636364,4.8,2.666666667,3.041060606,0,0,1,4,0,3,0,1,100,3.927272727,3.55,TRUE
+The vaccines against Corona Virus is not developed yet and the Pneumonia vaccine cannot prevent it.,Prevention,5.25,16,16,11,7,3,3,0,3,1,1,0,2,4.5875,3.2,3.666666667,3.390833333,0,0,1,5,0,4,1,2,100,4.025,5.15,TRUE
+There no such evidence that the rinsing hand with saline water can prevent infection. ,Prevention,4.8,15,15,8,7,2,5,1,0,2,0,0,0,4.425,6,3.333333333,3.751666667,0,0,1,6,0,2,0,1,100,3.5,5.35,TRUE
+"Instead, covering the nose with face mask will prevent the virus reaching to respiratory tract and hence prevent the disease.",Prevention,5.3,20,17,13,9,4,6,1,2,1,0,0,0,5.2,5,4.333333333,4.206666667,0,0,2,7,0,6,2,1,85,3.9,6.5,TRUE
+WHO has advised to the peoples of all ages to follow the good hand hygiene and good respiratory hygiene for its prevention.,Prevention,4.636363636,22,18,12,11,3,6,3,0,2,2,0,0,5.393181818,6,5.666666667,5.111969697,0,0,3,8,0,4,0,1,81.81818182,3.236363636,7.55,TRUE
+"The corona virus can affect people with all age, race and ethnicity. ",Infection,4.384615385,13,13,7,7,1,6,0,0,1,0,0,0,4.071153846,6.2,3.333333333,3.720897436,0,0,1,7,0,2,0,1,100,3.192307692,4.95,TRUE
+ Antibiotics kill bacteria only or are effective against bacteria only.,Cure,5.545454545,11,10,8,3,2,3,1,2,1,0,0,0,4.015909091,4.6,2.666666667,3.056515152,0,0,1,4,1,3,2,0,90.90909091,4.181818182,3.85,TRUE
+Even the broad spectrum antibiotics like penicillin cannot kill this virus.,Cure,5.909090909,11,11,8,5,1,4,1,2,1,0,0,0,4.002272727,5.4,3,3.380454545,0,0,1,4,0,2,0,1,100,4.254545455,3.75,TRUE
+Virus is not living organism and cannot be killed it using medicines like antibiotics.,Cure,5.214285714,14,14,11,5,5,4,0,2,1,1,0,0,4.128571429,3,2,2.425714286,0,0,1,6,0,7,0,0,100,4.207142857,4.05,TRUE
+No evidence in the form of a DB RCT from the current outbreak that garlic or lemon (or vitamin c rich foods) can protect someone from getting COVID-19 infection ,Prevention,4.4,30,28,17,14,3,9,3,0,4,0,1,2,7.066666667,8.6,10,8.133333333,0,0,4,11,1,4,0,3,93.33333333,3.433333333,10.7,TRUE
+No evidence that regularly gargling has protected people from COVID-19 infection.,Prevention,6.454545455,11,11,8,4,3,4,0,1,2,0,0,0,4.238636364,4.6,2.666666667,3.101060606,0,0,1,4,0,2,1,1,100,4.627272727,3.85,TRUE
+No evidence that the nCoV-SARS virus can be killed at higher temperatures.,Transmission,5.25,12,12,7,6,2,4,1,0,2,0,0,0,3.7875,5.6,3,3.3775,0,0,1,4,0,3,0,1,100,3.725,3.85,TRUE
+Taking a hot bath will not prevent you from contracting COVID-19.,Prevention,5,11,11,7,5,3,2,1,1,1,1,0,0,3.425,3.6,1.666666667,2.238333333,0,0,1,3,0,4,0,0,100,3.7,3.15,TRUE
+"The COVID-19 virus can be transmitted in all areas, including areas with hot and humid weather.",Transmission,5,16,16,10,8,3,5,2,0,2,0,0,0,4.575,6,5.666666667,4.948333333,0,0,3,5,1,3,0,1,100,3.7,5.45,TRUE
+Spraying alcohol or chlorine all over your body will not kill viruses that have already entered the body.,Prevention,4.888888889,18,18,11,8,4,5,0,2,1,1,1,0,4.847222222,4,2.333333333,2.936111111,0,0,1,7,0,5,1,0,100,3.744444444,5.95,TRUE
+"Vaccines against pneumonia, such as pneumococcal vaccine and Haemophilus influenza Type B vaccine, do not protect against the novel coronavirus.",Prevention,6.25,20,19,15,8,2,9,3,1,3,0,0,0,6.0625,8.4,8.666666667,7.225833333,0,0,3,8,0,2,0,4,95,4.775,7.35,TRUE
+There is evidence that masks can prevent an asymptomatic patient of COVID-19 from spreading the virus.,Prevention,5.4375,16,16,9,8,3,5,1,0,3,0,0,0,4.659375,5.8,3.333333333,3.758541667,0,0,2,7,0,4,0,0,100,3.81875,5.5,TRUE
+"In fact, alcohol use and subsequent intoxication can affect the social distancing norms, impair hand hygiene, and other infection control measures, and pose an imminent risk of contracting the infection.",Cure,5.8,30,27,21,14,4,13,4,0,2,0,0,0,7.3,9.6,11,8.88,0,0,2,11,0,6,0,6,90,4.5,10.1,TRUE
+No evidence to suggest that alcohol intake can protect from getting infected. ,Cure,5.076923077,13,13,7,6,3,3,1,0,2,0,0,0,3.644230769,4.8,3.333333333,3.355512821,0,0,1,3,1,5,0,1,100,3.638461538,3.65,TRUE
+The vibration created by chanting would not even be sensed by something as small as a virus.,Cure,4.470588235,17,15,10,8,4,3,1,2,4,0,0,0,4.333823529,4.4,4.666666667,4.080098039,0,0,3,4,2,5,1,0,88.23529412,3.317647059,5.35,TRUE
+No evidence that mosquitoes can transmit the COVID-19 infection.,Transmission,6.222222222,9,9,5,5,1,4,0,0,1,0,0,0,3.605555556,5.4,2,2.801111111,0,0,0,4,0,2,0,1,100,4.111111111,3.1,TRUE
+"At present, there is no evidence that pets can transmit the COVID-19 infection.",Transmission,5.153846154,13,13,7,8,2,4,1,0,2,0,0,0,3.913461538,5.6,3,3.402692308,0,0,1,5,0,3,0,1,100,3.476923077,4.35,TRUE
+No evidence to suggest that that the COVID-19 can be transmitted by eating properly cooked non-vegetarian foods,Transmission,5.588235294,17,16,10,7,5,3,1,1,3,0,0,0,4.467647059,4,2.666666667,3.026862745,0,0,2,3,0,5,1,0,94.11764706,4.035294118,4.9,TRUE
+No evidence that COVID-19 can be transmitted by blood donation,Transmission,5.3,10,10,6,4,2,4,0,0,2,0,0,0,3.45,5.2,2.666666667,3.063333333,0,0,1,3,0,3,0,1,100,3.85,3.05,TRUE
+"The real fact is that one cannot get infected if he/she maintains a two-meter distance from the infected patient, wears a mask, and avoids touching contaminated things. ",Transmission,5.071428571,28,26,18,13,8,6,3,1,3,1,0,0,6.207142857,4.4,3.666666667,3.954761905,0,0,1,8,0,8,0,0,92.85714286,3.964285714,8.45,TRUE
+Practicing adequate hand hygiene and infection control measures can prevent from getting infected.,Transmission,6.615384615,13,13,10,4,3,5,2,0,1,0,0,0,4.378846154,5.8,5.666666667,4.869102564,0,0,1,3,1,4,0,3,100,4.907692308,3.85,TRUE
+"As per the WHO, the likelihood of becoming infected with COVID-19 from a commercial package is low since it has likely traveled over several days and had been exposed to different temperatures and conditions during transit.",Transmission,5.222222222,36,34,20,18,7,7,6,0,8,2,0,0,7.702777778,7.2,10.33333333,8.147222222,0,0,7,10,2,9,1,0,94.44444444,3.755555556,11.65,TRUE
+"Following the hand hygiene measures, while touching the milk packet, may be sufficient to avoid the development of COVID-19 infection.",Prevention,5.75,20,18,13,10,4,8,1,0,2,0,0,0,5.1375,6.4,7.666666667,6.140833333,0,0,2,5,1,5,0,4,90,4.075,6.2,TRUE
+"There is no risk of contracting the illness through newspapers or any packages, and no current data/research suggests that the virus can survive on paper for long hours. ",Transmission,4.896551724,29,27,14,16,4,8,2,0,5,0,0,0,6.739655172,7.4,6,5.827931034,0,0,4,12,0,5,0,0,93.10344828,3.179310345,10.3,TRUE
+No evidence of newspapers being potential carriers of COVID-19 had been proved.,Transmission,5.666666667,12,11,9,4,4,4,1,0,2,0,0,0,4.275,4.8,3,3.315,0,0,2,7,0,4,0,0,91.66666667,4.25,4.3,TRUE
+The active virus has not yet been found in samples of amniotic fluid.,Misc.,4.384615385,13,13,10,4,3,3,2,2,2,0,0,0,4.046153846,4.8,3,3.269230769,0,0,2,4,0,3,1,0,100,3.792307692,4.3,TRUE
+"To date, there is no data (as per WHO), to the effect that a pregnant female with COVID-19 can pass the virus to her fetus or baby during pregnancy or process of childbirth. ",Transmission,4.147058824,34,31,14,24,2,11,1,0,6,2,0,0,7.667647059,8.4,8.666666667,7.546862745,0,0,7,17,0,3,0,0,91.17647059,1.985294118,13.35,TRUE
+The WHO clearly advises that CS should only be performed when medically indicated/ justified. ,Misc.,5.333333333,15,15,10,6,4,1,1,4,1,1,0,0,4.433333333,2.2,1.333333333,1.993333333,0,0,0,2,1,2,2,0,100,4.066666667,4.8,TRUE
+The mode of birth should be individualized and based on a woman's preferences alongside obstetric indications.,Misc.,5.9375,16,16,9,9,3,5,1,0,3,0,0,0,4.784375,5.8,4.666666667,4.450208333,0,0,4,7,0,4,0,0,100,3.96875,5.6,TRUE
+There is currently no evidence to support that acquiring COVID-19 predisposes to a heightened risk of miscarriage. ,Infection,5.444444444,18,17,10,8,5,4,0,1,1,0,0,0,4.933333333,3.6,2.666666667,3.04,0,0,2,7,0,5,1,0,94.44444444,3.866666667,6,TRUE
+There is also no reported evidence to suggest that the virus will cause any problem with fetal development. ,Infection,4.736842105,19,19,10,9,4,4,1,1,2,0,0,0,4.659210526,4.6,2.333333333,3.018508772,0,0,1,6,0,6,1,0,100,3.468421053,5.85,TRUE
+"Although some reports of preterm delivery and neonatal pneumonia have been reported, however currently the adverse pregnancy outcomes in few reports cannot be attributed to COVID-19 only.",Infection,5.962962963,27,26,20,10,5,8,3,4,3,0,0,0,7.097222222,6.2,7,6.159444444,0,0,3,10,0,6,2,2,96.2962963,4.944444444,9.25,TRUE
+"Till date (as per WHO), the virus has not been detected in the breast milk of any mother with confirmed or suspected COVID-19 infection.",Transmission,4.708333333,24,23,13,15,5,7,0,1,6,1,0,0,5.45625,5.4,6.333333333,5.337916667,0,0,4,7,0,5,0,2,95.83333333,3.1125,7.8,TRUE
+Researchers are continuing to test breast milk from COVID-19 mothers.,Misc.,6,10,10,8,3,3,4,1,0,1,0,0,0,3.775,5,3,3.255,0,0,1,4,0,4,0,1,100,4.5,3.05,TRUE
+HCWs are regarded as the front line warriors for tackling with COVID-19 infection.,Misc.,5.384615385,13,13,9,5,3,5,1,0,3,0,0,0,4.071153846,5.8,5.333333333,4.640897436,0,0,3,3,0,3,0,2,100,4.092307692,4.05,TRUE
+"They are wellequipped with personal protective equipments (PPEs), which protect them against contracting COVID-19 infection.",Misc.,7.333333333,15,15,10,9,4,4,2,0,2,2,1,0,4.983333333,4.6,4,3.916666667,0,0,2,7,0,4,0,1,100,4.766666667,5.2,TRUE
+About 90 % of the patients with confirmed COVID -19 infection are asymptomatic and hence are potential carriers of virus.,Transmission,5.1,20,18,12,9,3,5,2,1,4,0,0,1,5.7,6.2,6.133333333,5.446666667,2,0,3,8,2,2,1,0,90,3.75,7.65,TRUE
+The COVID-19 infection gradually spread across the World since its outbreak in China to almost all countries. ,Transmission,5.166666667,18,18,9,9,1,4,0,2,3,1,0,2,5.141666667,5,5.333333333,4.695,0,0,4,6,0,1,1,1,100,3.583333333,6.7,TRUE
+"However, it is not true that anyone who has a positive travel history to abroad is harboring COVID-19 infection.",Transmission,4.947368421,19,18,14,7,4,5,2,3,1,2,0,0,5.285526316,4,5,4.357105263,0,0,1,6,1,4,2,2,94.73684211,4.121052632,6.45,TRUE
+"Once recovered or tested negative as per WHO (RTPCR) viral testing, the person is declared recovered i.e., he/she is immune to the infection and has developed immunity or antibodies against the COVID-19 and therefore, they are absolutely safe, and they cannot transmit the infection.",Transmission,5.454545455,44,35,27,25,10,9,4,4,3,3,0,0,9.211363636,3.8,9.666666667,7.435606061,0,0,4,13,4,10,3,0,79.54545455,3.722727273,14.7,TRUE
+Unprotected sexual intercourse with a steady partner with no contact history who is not known to be infected with COVID-19 poses no risk of transmission of COVID-19. ,Transmission,4.964285714,28,24,17,11,5,8,3,1,5,1,0,0,6.894642857,6.8,7.666666667,6.572261905,0,0,5,12,0,6,0,1,85.71428571,3.939285714,9.85,TRUE
+"To date, the virus had been detected in only a few cases in the seminal fluid of infected persons.",Transmission,4.210526316,19,17,12,9,3,5,3,1,3,0,0,0,5,6.4,5.333333333,4.946666667,0,0,4,7,0,3,0,0,89.47368421,3.3,6.7,TRUE
+The new coronavirus can infect people of all ages.,Infection,4.666666667,9,9,5,5,1,3,1,0,1,0,0,0,3.241666667,5.4,2,2.728333333,0,0,1,4,0,2,0,0,100,3.333333333,3.15,TRUE
+"Older people and people with pre-existing medical conditions (such as asthma, diabetes, and cardiovascular diseases) are more vulnerable to acquiring infection due to poor immunity.",Infection,6.28,25,22,19,11,2,8,8,1,2,0,0,0,7.26,9.8,9.333333333,8.078666667,0,0,4,11,2,2,0,0,88,4.82,9.7,TRUE
+"About 80−90% of persons infected with COVID-19 are asymptomatic or have milder flu symptoms, and the death rate is below 2%.",Motality,4.952380952,21,21,14,13,4,8,2,0,4,0,0,0,5.663095238,7.2,8.933333333,7.039285714,4,0,3,9,3,4,0,2,100,3.576190476,7.75,TRUE
+No such comparative data on the immune system of Indians Vs. West is available.,Motality,4.714285714,14,14,10,5,1,2,4,0,2,0,0,3,4.528571429,6.4,6.333333333,5.352380952,0,0,2,5,1,1,0,2,100,3.857142857,5.2,TRUE
+"No evidence for any special role for colloidal silver, vitamins, teas, and essential oils in dealing with COVID-19.",Cure,5.444444444,18,17,11,11,1,8,2,0,4,0,0,0,5.733333333,8.4,6.666666667,6.16,0,0,4,12,0,1,0,1,94.44444444,3.666666667,7.8,TRUE
+"No evidence yet in this regard. If this was true, then considering India to be the Malaria capital of the World should have low case load, which is untrue.",Infection,4.379310345,29,27,18,15,5,5,3,2,3,0,1,3,6.435344828,5.6,5.666666667,5.240402299,0,0,1,3,0,0,1,2,93.10344828,3.420689655,9.45,TRUE
+COVID-19 is a viral infection; therefore anti-bacterial agents are not effective for treating COVID-19 but are useful for treating secondary bacterial infections.,Cure,6.409090909,22,18,18,6,5,5,6,2,2,0,0,0,6.011363636,6.4,7,5.982272727,0,0,2,5,3,6,0,0,81.81818182,5.222727273,6.8,TRUE
+Hand hygiene measures by either alcohol sanitizers or soap and water are equally effective in protecting one from getting infected.,Prevention,5.6,20,20,13,8,4,6,2,1,3,0,0,0,5.375,6,7.4,5.975,1,0,3,5,2,5,1,2,100,4.3,6.45,TRUE
+"Thermal scanners can only detect fever, which is one of the usual symptoms of COVID-19, but a person infected with COVID-19 may take 2–10 days after infection to develop fever.",Diagnosis,4.9,30,29,17,18,5,9,2,1,4,0,1,0,7.108333333,7.2,6.533333333,6.128333333,3,0,4,16,0,8,1,0,96.66666667,3.316666667,10.9,TRUE
+No evidence that the virus can spread through the water supply.,Transmission,4.818181818,11,10,5,7,1,4,0,0,2,0,0,0,3.434090909,5.6,2.666666667,3.140151515,0,0,1,4,0,2,0,1,90.90909091,3.118181818,3.75,TRUE
+"In fact, the treatment in water facilities/ having a good shower can protect from getting infected.",Transmission,5.25,16,16,10,9,3,5,2,0,3,0,0,0,4.3625,6.2,5,4.6125,0,0,2,4,1,4,0,1,100,3.725,5,TRUE
+There is no evidence that the BCG vaccine protects people against infection with COVID-19. ,Prevention,5.133333333,15,15,8,7,2,6,0,0,3,0,0,0,4.633333333,6.2,4,4.166666667,0,0,2,7,0,2,0,1,100,3.666666667,5.6,TRUE
+"WHO to date has not recommended BCG vaccination for prevention of COVID-19, few trials are underway though.",Prevention,5.352941176,17,17,12,7,3,6,2,1,3,1,0,0,5.063235294,6,5.333333333,4.879313725,0,0,3,7,0,4,1,1,100,4.176470588,5.95,TRUE
+Researchers are actively engaged in developing a vaccine against COVID-19. ,Prevention,5.909090909,11,11,7,4,3,3,0,1,2,0,0,0,3.977272727,4.2,2.333333333,2.802121212,0,0,2,4,0,3,1,0,100,4.254545455,3.7,TRUE
+"However, clinical trials on a vaccine for COVID-19 may take a long time (months) to reach definite results.",Prevention,5,18,17,12,10,2,6,3,1,2,0,0,0,5.122222222,7,4.333333333,4.591111111,0,0,2,9,0,4,1,0,94.44444444,3.644444444,6.6,TRUE
+"Won't kill viruses already in the body, and may be harmful",Cure,4.363636364,11,11,7,6,2,2,1,2,1,0,0,0,3.115909091,4.2,2.333333333,2.629848485,0,0,1,2,1,5,1,0,100,3.281818182,2.95,TRUE
+"Nope. Antibiotics only work against bacteria, not viruses.",Cure,6.375,8,8,6,5,1,3,0,2,1,0,0,0,3.34375,4.2,1,2.00875,0,1,0,0,0,0,0,0,100,4.2875,2.4,TRUE
+They don't work against coronavirus.,Cure,6.4,5,5,4,3,2,1,0,1,1,1,0,0,2.925,3.2,1,1.725,0,0,1,2,0,2,0,0,100,4.3,1.55,TRUE
+There is a theoretical possibility that ibuprofen could increase the number of receptors the coronvirus uses to infect cells. As yet there's no data to back this up.,Cure,4.928571429,28,26,14,17,6,7,1,0,3,0,1,0,6.071428571,5.6,3.333333333,4.000952381,0,0,1,9,0,6,0,0,92.85714286,3.092857143,9.05,TRUE
+"The advice is still conflicting, depending on your area. But studies show masks reduce the spread of infection.",Prevention,5.222222222,18,18,12,9,5,6,0,1,2,1,0,0,4.755555556,4.2,3.333333333,3.457777778,0,0,2,2,0,2,1,0,100,3.911111111,5.6,TRUE
+"A hot bath won't stop you catching it, and it won't change your body temperature.",Prevention,4.466666667,15,14,9,10,3,3,1,2,0,4,0,0,3.783333333,2.4,2,2.236666667,0,0,0,5,0,5,0,1,93.33333333,3.066666667,4.5,TRUE
+"Probably ineffective. Gloves can become contaminated, and most have tiny holes. Viruses ary tiny.",Prevention,6,14,14,12,6,3,3,5,1,0,0,0,0,4.4,5.8,3.333333333,3.706666667,0,0,0,0,1,1,1,0,100,4.6,4.2,TRUE
+It's the soap part that counts. The antibac element has no additional benefit. It's a virus yeah?,Prevention,4.764705882,17,16,12,10,4,6,2,0,0,2,1,0,4.411764706,5,4,3.882352941,0,0,0,3,0,2,0,2,94.11764706,3.523529412,5.3,TRUE
+"Don't work against this coronavirus, which needs a vaccine of its own.",Prevention,4.916666667,12,12,7,8,3,2,1,1,2,1,1,0,3.729166667,4,2.333333333,2.7125,0,0,2,5,0,3,0,0,100,3.358333333,4.1,TRUE
+"For flu, sure. Not for coronavirus. It won't help.",Prevention,4.666666667,9,9,6,8,1,2,1,2,2,1,0,0,3.041666667,4.4,1.666666667,2.321666667,0,0,1,1,0,0,0,0,100,3.133333333,2.95,TRUE
+"Garlic has antimicrobial properties, but there's no evidence it can protect you from coronavirus.",Prevention,6,14,14,8,9,3,3,1,0,1,2,0,1,4.475,3.8,2.333333333,2.821666667,0,0,1,8,0,4,0,0,100,3.9,5.05,TRUE
+"Keeping hydrated will make you feel better if you are ill, but it won't stop you catching it.",Prevention,4.222222222,18,16,10,11,6,0,0,4,1,5,0,0,4,-1,1.333333333,1.266666667,0,0,0,5,2,8,1,0,88.88888889,2.9,5.1,TRUE
+There's limited evidence that saline washes can speed up recovery from common cold. But zero evidence that they prevent coronavirus infection.,Prevention,5.80952381,21,19,13,11,3,8,2,0,3,1,1,0,5.479761905,7.2,5.4,5.235952381,1,0,1,6,0,3,0,2,90.47619048,4.00952381,6.95,TRUE
+No evidence that echinacea can lower your risk of contracting it.,Prevention,5,11,11,5,7,2,3,0,0,2,2,0,0,3.625,4,1.666666667,2.358333333,0,0,1,6,0,3,0,0,100,3.3,3.95,TRUE
+No evidence that green tea can lower your risk of contracting it.,Prevention,4.5,12,12,6,7,2,3,1,0,2,2,0,0,3.7,4.4,2,2.62,0,0,1,6,0,3,0,0,100,3.15,4.25,TRUE
+No evidence that Vitamin C supplements can lower your risk of contracting it.,Prevention,5,13,13,7,7,2,5,0,0,2,2,0,0,4.025,4.8,3.666666667,3.598333333,0,0,1,6,0,3,0,2,100,3.5,4.55,TRUE
+No evidence that zinc supplements can lower your risk of contracting it. ,Prevention,4.692307692,13,13,6,7,2,4,0,0,2,2,0,0,3.898076923,4.4,2.666666667,2.992948718,0,0,1,6,0,3,0,1,100,3.246153846,4.55,TRUE
+"Zinc may shorten infections of the common cold, but the jury is till out.",Prevention,4.285714286,14,13,8,8,2,4,1,1,2,0,0,0,3.935714286,5.4,3.666666667,3.70047619,0,0,2,5,1,3,0,0,92.85714286,3.071428571,4.8,TRUE
+"Scientists around the globe are working on it, but it won't be ready for months.",Prevention,4.4,15,15,8,10,3,3,1,1,3,2,0,0,4.075,4,4,3.615,0,0,3,6,1,4,0,0,100,3,5.15,TRUE
+"We know sanitiser with 60%+ alcohol kills pathogens like this coronavirus, but we don't know if it kills this one. You're better off with regular soap.",Prevention,4.846153846,26,22,15,18,6,6,2,1,4,4,1,0,6.034615385,4,4.133333333,4.073589744,2,0,2,11,0,5,0,0,84.61538462,2.969230769,9.1,TRUE
+"Some hospitals define flu (not COVID-19) exposure this way, but you can get infected in a shorter time or from contact via surfaces.",Prevention,4.782608696,23,23,13,14,3,8,1,1,3,1,0,0,5.795652174,6.4,5.666666667,5.272463768,0,0,4,11,0,5,0,0,100,3.291304348,8.3,TRUE
+Totally unfounded. There is no evidence that 5G can damage the immune system or boost viruses.,Cause,4.9375,16,16,10,8,2,5,2,1,1,0,0,0,4.284375,6,3.666666667,3.890208333,0,0,0,0,1,0,0,1,100,3.66875,4.9,TRUE
+As far as we know it can only survive a few days on surfaces. Something in transit for longer is probably fine.,Transmission,4.090909091,22,22,13,11,3,4,3,3,5,2,0,0,5.197727273,5.2,3,3.579545455,0,0,1,5,0,3,1,0,100,3.245454545,7.15,TRUE
+Currently used for lupus/arthritis/malaria. Studies are showing its ineffective against Coronavirus.,Cure,8.181818182,11,11,8,5,3,2,1,1,2,1,0,1,4.420454545,3.8,2,2.644090909,0,0,1,1,0,1,1,0,100,5.390909091,3.45,TRUE
+Hand dryers will not kill the virus.,Prevention,4.285714286,7,7,5,3,2,2,0,1,0,0,0,0,2.621428571,3.8,0.666666667,1.617619048,0,0,0,2,0,3,0,0,100,3.342857143,1.9,TRUE
+No evidence that cold weather kills coronavirus.,Transmission,6,7,7,5,3,1,3,1,0,1,0,0,0,3.25,5.4,1.333333333,2.396666667,0,0,0,2,0,1,0,0,100,4.2,2.3,TRUE
+The body remains warm whatever the weather anyway.,Misc.,5.375,8,8,5,4,1,2,1,1,0,0,1,0,3.39375,4.8,1.666666667,2.472083333,0,0,0,3,1,1,1,0,100,3.7875,3,TRUE
+No evidence to suggest it can be transmitted by mosquitoes.,Transmission,5,10,10,5,6,3,2,0,0,1,1,0,0,3.125,3.4,1.333333333,1.971666667,0,0,1,4,0,5,0,0,100,3.4,2.85,TRUE
+"Several diseases are more contagious, e.g. polio, diptheria, whooping cough. ",Transmission,6.090909091,11,11,9,5,1,3,3,1,0,0,0,1,4.397727273,5.8,4.333333333,4.206212121,0,0,1,5,2,1,0,0,100,4.445454545,4.35,TRUE
+Measles is FAR more contagious.,Transmission,5.4,5,5,5,1,1,0,1,2,0,0,0,1,2.85,3.6,1.333333333,1.956666667,0,0,0,1,1,1,0,0,100,4.1,1.6,TRUE
+No evidence that COVID-19 can be transmitted from pets to humans.,Transmission,5,11,11,6,6,2,4,0,0,2,0,0,0,3.65,5.2,2.666666667,3.103333333,0,0,2,5,0,3,0,0,100,3.5,3.8,TRUE
+Anybody who comes into contact with the virus can contract it.,Transmission,4.727272727,11,11,5,7,2,3,0,0,2,2,0,0,3.581818182,4,2.333333333,2.683030303,0,0,2,6,0,3,0,0,100,3.163636364,4,TRUE
+No evidence of genetic resistance in those of Arican descent.,Transmission,5.2,10,9,5,6,0,3,2,0,3,0,0,0,4.075,6.6,3.666666667,3.968333333,0,0,3,8,0,0,0,0,90,3.4,4.75,TRUE
+The virus can live on surfaces for several days. It's possible.,Transmission,4.818181818,11,11,7,7,2,3,2,0,2,1,0,0,3.604545455,5.2,3,3.260909091,0,0,2,4,0,2,0,0,100,3.409090909,3.8,TRUE
+Fake rumour put out online. This is not a way to detect the disease.,Diagnosis,3.928571429,14,14,9,7,3,4,1,1,0,0,1,0,3.782142857,4.8,1.666666667,2.549761905,0,0,0,2,0,1,0,0,100,3.164285714,4.4,TRUE
+"They can sense a fever, but can't detect infection during the typical 2-10 days it takes for the infected to develop a high temperature.",Diagnosis,4.708333333,24,22,12,15,4,4,3,1,2,2,0,0,5.110416667,4.6,3.066666667,3.475416667,1,0,1,7,0,7,0,0,91.66666667,2.970833333,7.25,TRUE
+"We don't know for sure yet, but reinfection is highly unlikely.",Infection,4.818181818,11,11,9,5,3,1,2,3,1,1,0,0,3.629545455,3.2,3,2.865909091,0,0,1,2,2,3,1,0,100,3.809090909,3.45,TRUE
+"There is uncertainty about mortality rates at this stage, but coronavirus appears to be more deadly than seasonal flu.",Motality,5.263157895,19,19,12,9,3,6,2,1,3,0,0,0,5.290789474,6.4,6.666666667,5.671491228,0,0,3,7,2,4,0,1,100,3.931578947,6.65,TRUE
+The data so far has the case fatality rate somewhere around 3-4%. ,Motality,4.153846154,13,13,9,5,1,5,0,3,1,0,0,0,3.963461538,5.2,3.733333333,3.699358974,1,0,1,3,0,1,1,2,100,3.476923077,4.45,TRUE
+"For comparison, SARS was 10%. MERS was 34%.",Motality,4.5,8,7,7,6,2,5,0,0,1,0,0,0,3.0375,5.4,2.466666667,2.920833333,2,0,1,3,0,1,0,0,87.5,3.225,2.85,TRUE
+"Data to date suggests 80% of those infected have mild  symptons, and around 3-4% die from the virus - particularly high-risk groups like the very old and those with serious existing conditions/comorbidities (heart & lung disease etc.)",Motality,5.184210526,38,35,23,20,4,13,4,2,5,0,0,0,9.881578947,9.8,11.13333333,9.502982456,2,0,5,24,1,3,0,2,92.10526316,3.813157895,15.95,TRUE
+DNA sequencing strongly suggests that virus originated in pangolins or bats - or both.,Source,5.214285714,14,13,8,7,2,5,0,1,2,0,0,0,4.392857143,5.4,3,3.458571429,0,0,1,6,0,2,1,1,92.85714286,3.635714286,5.15,TRUE
+"Sparked by a Gates-funded institute holding a coronavirus vaccine patent, but that was for a different strain, affecting livestock only.",Misc.,5.85,20,18,13,10,4,6,2,1,2,0,0,0,5.3625,5.8,5.333333333,4.899166667,0,0,2,6,0,4,1,2,90,4.125,6.6,TRUE
+You can still catch regular colds and flu while the coronavirus is about.,Infection,4.692307692,13,13,8,6,2,3,1,2,1,1,0,0,4.023076923,4.2,1.333333333,2.311282051,0,0,0,5,0,3,2,0,100,3.546153846,4.5,TRUE
+"If there's not enough capacity to treat everybody, heathcare workers may have to choose who gets treated - depending on their likelihood of survival long-term.",Misc.,5.4,25,24,16,12,7,6,2,1,3,2,0,0,5.805,4,6,4.961,0,0,3,8,1,9,0,1,96,4.06,7.55,TRUE
+When the former US president declared to a public health emergency there had only been tweenty confirmed cases in the US.,Misc.,4.80952381,21,20,15,7,4,4,3,2,1,0,0,2,5.328571429,5,7,5.565714286,0,0,2,5,1,5,0,3,95.23809524,4.157142857,6.5,TRUE
+Stay informed on the latest developments about COVID-19. ,Misc.,5.444444444,9,9,5,4,1,2,1,0,2,0,0,1,3.611111111,5.2,2.666666667,3.095555556,0,0,2,4,0,1,0,0,100,3.822222222,3.4,TRUE
+Being able to hold your breath for 10 seconds or more without coughing or feeling discomfort DOES NOT mean you are free from the coronavirus disease (COVID-19) or any other lung disease.,Diagnosis,4.84375,32,30,20,15,6,9,4,1,3,2,0,0,7.1546875,6.4,9.733333333,7.577604167,1,0,3,9,2,7,1,3,93.75,3.859375,10.45,TRUE
+"Drinking alcohol does not protect you against COVID-19 and can be dangerous, Frequent or excessive alcohol consumption can increase your risk of health problems.",Cure,5.75,24,22,16,10,5,7,3,1,2,2,0,0,5.995833333,5.4,8.666666667,6.6125,0,0,2,7,5,8,0,1,91.66666667,4.391666667,7.6,TRUE
+COVID-19 virus can be transmitted in areas with hot and humid climates.,Transmission,5,12,12,8,5,2,4,2,0,2,0,0,0,3.9,6,4.666666667,4.313333333,0,0,2,4,1,3,0,1,100,3.8,4,TRUE
+Cold weather and snow CANNOT kill the new coronavirus.,Transmission,5.111111111,9,9,8,3,1,4,1,1,0,0,0,1,3.727777778,5.4,3.333333333,3.492222222,0,0,0,4,0,1,1,2,100,4.055555556,3.4,TRUE
+Taking a hot bath does not prevent the new coronavirus disease.,Prevention,4.818181818,11,11,9,3,3,3,2,1,0,0,0,0,3.554545455,4.6,2.333333333,2.797575758,0,0,0,2,0,3,0,1,100,4.009090909,3.1,TRUE
+The new coronavirus CANNOT be transmitted through mosquito bites.,Transmission,6.333333333,9,9,8,3,3,2,1,0,1,0,0,2,3.508333333,4.2,3.666666667,3.375,0,0,1,2,0,4,0,2,100,4.666666667,2.35,TRUE
+Trending Science: Why has ‘flatten the curve’ become the public health mantra in the global fight against coronavirus?,Misc.,5.611111111,18,16,13,9,4,6,2,1,2,0,0,0,4.997222222,5.8,4.666666667,4.492777778,0,0,2,7,0,5,0,1,88.88888889,4.094444444,5.9,TRUE
+Rolling updates on coronavirus disease (COVID-19).,Misc.,7.5,6,6,5,4,0,4,1,0,1,0,0,0,3.85,6.2,3,3.51,0,0,1,5,0,0,0,1,100,4.85,2.85,TRUE
+"While the EU actively promotes that vaccines work, there are no plans to impose mass vaccinations. ",Prevention,4.882352941,17,17,10,8,4,4,0,1,2,0,0,1,4.420588235,4.2,2.333333333,2.890784314,0,0,0,5,0,5,1,1,100,3.641176471,5.2,TRUE
+Migrants are not bringing COVID-19 to Europe.,Transmission,5.571428571,7,7,6,2,2,1,0,1,0,0,0,2,3.267857143,3.4,1.666666667,2.166904762,0,0,1,3,0,2,0,0,100,4.185714286,2.35,TRUE

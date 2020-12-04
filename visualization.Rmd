@@ -1,0 +1,140 @@
+# **linguisitc interaction of myths and facts**
+Dr. Clara Mingyu Wan
+
+******
+### **1： corrlation of the various linguistic factors to truth and falsehood**
+```{r}
+library(dplyr)
+library(tidyverse)
+library(cowplot)
+#library(Rtsne)
+#library(yarrr)
+library(corrplot)
+
+my_data <- read.csv("Data_CoMyth_plot.csv", encoding = "UTF-8") 
+#View(my_data)
+
+myth_correlation <- my_data %>%
+  select(Verb:Fact) #select only the columns with the means
+#names(myth_correlation) <- gsub(x = names(myth_correlation), ".mean", "", fixed = TRUE) #remove ".mean" from the variable names
+corrplot.mixed(
+  cor(myth_correlation), #make a correlation matrix of the means
+               lower.col = "black", number.cex = .7, tl.pos = "d", tl.cex = 0.8, #choose aesthetics
+               upper.col = colorRampPalette(c("#053061", "#2166AC", "#4393C3", "#92C5DE", "#D1E5F0", "#FFFFFF", "#FDDBC7", "#F4A582", "#D6604D","#CC4C02", "#B2182B", "#67001F"))(100)) #select colour scheme i.e. red = positive, blue = negative
+
+```
+
+******
+### **2： polar plot**
+```{r}
+library(dplyr)
+library(tidyverse)
+library(reshape2)
+library(cowplot)
+#library(Rtsne)
+#library(yarrr)
+library(corrplot)
+
+my_data <- read.csv("Six_dimension_plot.csv", encoding = "UTF-8") 
+colnames(my_data)[1] <- "topic"
+
+polar_plotting_data <- my_data %>%
+  select(topic:Fact) %>%
+  melt(id.vars = c("topic"), value.name = "value", variable.name = "dimension") %>% #convert to long format
+  mutate(#dimension = gsub(".mean", "", dimension, fixed = TRUE),
+         dimension = dimension %>%
+           factor(levels = c("Comp", "Lexi.C", "Syn.C", "Form", "Spec",
+                     "Fact"),
+                  labels = c("Comp", "Lexi.C", "Syn.C", "Form", "Spec",
+                     "Fact")))
+
+#View(polar_plotting_data)
+#knitr::opts_chunk$set(fig.width = 16, fig.height = 8)
+ggplot(polar_plotting_data, #select the data
+       aes(x = dimension, y = value, fill = dimension)) + #set the aesthetics
+  geom_bar(width = 0.8, stat = "identity", color = "white") + #make a bar plot first
+  coord_cartesian(ylim=c(0, 6)) + #constrain the y axis to a 0-5 scale
+  scale_y_continuous(breaks=seq(0, 6, 1)) + #set the increments of the y axis
+  scale_fill_manual(values = c("#6e40aa","#963db3","#bf3caf","#e4419d","#fe4b83","#ff5e63")) + #set the colour scheme
+  xlab("Topic") + #remove the x axis label
+  ylab("Strength") + #make y axis label
+  facet_wrap( ~ topic, ncol = 3) + #create separate plots for each word, with 3 words per row
+  theme_bw() + #set the theme/general aesthetics of the plot
+  geom_hline(yintercept = seq(0, 6, by = 1), #make the lines of the plot break every integer, i.e. 0, 1, 2, 3, 4, 5
+             color = "darkgrey",
+             size = .4) +
+  geom_vline(xintercept = seq(.5, 10.5, by = 1), #avoid having vertical lines run through the bars, have them separate the dimensions instead
+             color = "darkgrey",
+             size = .4) +
+  theme(axis.text.y=element_text(size=14), strip.text = element_text(size=14), #set the text sizes
+        axis.title=element_text(size=14), panel.grid = element_blank(),
+        axis.text.x=element_text(size = 9)) +
+  coord_polar(start = 30.1, direction = 1) #convert the bar plot into the polar plot
+ggsave(filename = "polar.png", width = 20, height = 9)
+```
+
+
+******
+### **3： pos distribution**
+```{r}
+library(dplyr)
+library(tidyverse)
+library(reshape2)
+library(cowplot)
+library(Rtsne)
+library(yarrr)
+library(corrplot)
+
+myth_pos <- read.csv("POS_distribution_myths.csv", encoding = "UTF-8") 
+colnames(myth_pos)[1] <- "Instance"
+myth_pos_plotting_data <- myth_pos %>%
+  select(Instance:Interj) %>% 
+melt(id.vars = c("Instance"), value.name = "score", variable.name = "dimension") %>% #convert to long format
+  mutate(#dimension = gsub(".mean", "", dimension, fixed = TRUE),
+         dimension = dimension %>%
+           factor(levels = c("Verb", "Noun", "Adj", "Adv", "Prep", "Pron", "Article", "Prop", "Num", "Interj"),
+                  labels = c("Verb", "Noun", "Adj", "Adv", "Prep", "Pron", "Article", "Prop", "Num", "Interj")))
+#"Verb", "Noun", "Adj", "Adv", "Prep", "Pron", "Article", "Prop", "Num", "Interj"
+pirateplot(score~dimension, #the formular for plotting, i.e. y axis ~ x axis
+           data = myth_pos_plotting_data, #the data
+           pal = "black", theme = 3, #the colour scheme
+           inf.method = "sd", inf.f.col = "black", inf.f.o = 0.2, #make shaded region represent the sd, colour = black
+           avg.line.col = "red", avg.line.lwd = 2, #make the mean line red and the width 2
+           cap.beans = TRUE, #make the end points limited to axes
+           point.o =  0.15, point.lwd = 5, point.cex = 0.12, jitter.val = 0.1, #raw data point aesthetics, o = opacity
+           bean.f.col = "white", bean.f.o = 0.5, cex.lab = 1.5, #
+           ylab = "Strength", xlab = "POS distribution of Myths" #label the axes
+)
+```
+
+```{r}
+library(dplyr)
+library(tidyverse)
+library(reshape2)
+library(cowplot)
+library(Rtsne)
+library(yarrr)
+library(corrplot)
+
+truth_pos <- read.csv("POS_distribution_truth.csv", encoding = "UTF-8") 
+colnames(truth_pos)[1] <- "Instance"
+truth_pos_plotting_data <- truth_pos %>%
+  select(Instance:Interj) %>% 
+melt(id.vars = c("Instance"), value.name = "score", variable.name = "dimension") %>% #convert to long format
+  mutate(#dimension = gsub(".mean", "", dimension, fixed = TRUE),
+         dimension = dimension %>%
+           factor(levels = c("Verb", "Noun", "Adj", "Adv", "Prep", "Pron", "Article", "Prop", "Num", "Interj"),
+                  labels = c("Verb", "Noun", "Adj", "Adv", "Prep", "Pron", "Article", "Prop", "Num", "Interj")))
+#"Verb", "Noun", "Adj", "Adv", "Prep", "Pron", "Article", "Prop", "Num", "Interj"
+pirateplot(score~dimension, #the formular for plotting, i.e. y axis ~ x axis
+           data = truth_pos_plotting_data, #the data
+           pal = "black", theme = 3, #the colour scheme
+           inf.method = "sd", inf.f.col = "black", inf.f.o = 0.2, #make shaded region represent the sd, colour = black
+           avg.line.col = "red", avg.line.lwd = 2, #make the mean line red and the width 2
+           cap.beans = TRUE, #make the end points limited to axes
+           point.o =  0.15, point.lwd = 5, point.cex = 0.12, jitter.val = 0.1, #raw data point aesthetics, o = opacity
+           bean.f.col = "white", bean.f.o = 0.5, cex.lab = 1.5, #
+           ylab = "Strength", xlab = "POS distribution of truth" #label the axes
+)
+```
+
